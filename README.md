@@ -1,7 +1,7 @@
 # Instacart-Case-Study
 ## Introduction
 
-![[Pasted image 20251107080756.png]]
+<img width="190" height="48" alt="image" src="https://github.com/user-attachments/assets/4a7feed2-37d1-4593-9893-ee962351c766" />
 
 Instacart is an online grocery store that allows customers to order from a variety of goods such as baby formula to household appliances through the power of your fingertips via an app. Instacart has been performing well as of late but they wish to uncover more information about their sales patterns. 
 
